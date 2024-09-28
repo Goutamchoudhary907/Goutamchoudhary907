@@ -1,4 +1,4 @@
-(https://github-readme-stats.vercel.app/api?username=Goutamchoudhary907)](https://github.com/Goutamchoudhary907/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=Goutamchoudhary907
 <h1 align="center">Hi 👋, I'm Goutam Choudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
